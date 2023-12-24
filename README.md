@@ -6,7 +6,7 @@
 
 <b>Sobre mim: </b>
 
-     Formado como técnico eletrônico e tecnólogo em Mecatrônica iniciei minha carreira profissional fora de qualquer área,
+Formado como técnico eletrônico e tecnólogo em Mecatrônica iniciei minha carreira profissional fora de qualquer área,
 atuando como auxiliar geral em uma empresa alimentícia, entendi lá como funcionava as dinâmicas de um chão de fábrica,
 após 2 ano e meio migrei para uma empresa têxtil trabalhando como auxiliar de estoque, o que me permitia ter noções de controle e
 estoque de peças.
