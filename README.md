@@ -6,7 +6,7 @@
 
 <b>Sobre mim: </b>
 
-Formado como técnico eletrônico e tecnólogo em Mecatrônica iniciei minha carreira profissional fora de qualquer área,
+<center>Formado como técnico eletrônico e tecnólogo em Mecatrônica iniciei minha carreira profissional fora de qualquer área,
 atuando como auxiliar geral em uma empresa alimentícia, entendi lá como funcionava as dinâmicas de um chão de fábrica,
 após 2 ano e meio migrei para uma empresa têxtil trabalhando como auxiliar de estoque, o que me permitia ter noções de controle e
 estoque de peças.
@@ -14,7 +14,7 @@ estoque de peças.
 Fui crescendo passando de estagiário para junior, depois pleno e atualmente exerço a função de técnico Sênior, particularmente acho que as coisas sempre aconteceram 
 de forma rápida em minha vida.
 Iniciei minha jornada de migração para TI em 2022, tanto por curiosidade das tecnologias quanto para migração de carreira. Aprendi muito ao longo do curso técnico oferecido
-na ETEC de Guarulhos. Meu objetivo hoje é me tornar um cientista de dados.
+na ETEC de Guarulhos. Meu objetivo hoje é me tornar um cientista de dados.</center>
 
 <!--
 **BruDevs/BruDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
