@@ -1,34 +1,16 @@
-### Hi there 👋
+Sobre mim
+Sou formado como Técnico Eletrônico e Tecnólogo em Mecatrônica, e atualmente estou cursando na Alura, focado em aprimorar minhas habilidades na área de Tecnologia da Informação e Ciência de Dados.
 
-<h1>Bem vindos ao meu Github!</h1>
+Minha carreira profissional começou fora dessas áreas, como auxiliar geral em uma empresa alimentícia, onde aprendi sobre as dinâmicas do chão de fábrica. Após dois anos e meio, migrei para uma empresa têxtil, trabalhando como auxiliar de estoque, o que me proporcionou uma sólida compreensão de controle e gerenciamento de peças.
 
-# Atualizado JAN/2024
+Quatro anos depois de concluir o curso técnico em Eletrônica, consegui meu primeiro estágio na empresa onde trabalho atualmente. A partir daí, minha carreira evoluiu rapidamente: fui promovido de estagiário para Técnico Júnior, depois Pleno, e, um ano após, Sênior. Atualmente, atuo como Técnico Master.
 
-<h3>Bruno Ferreira Alves</h3>
+Em 2022, iniciei minha transição para a área de Tecnologia da Informação, motivado tanto pela curiosidade sobre novas tecnologias quanto pelo desejo de migrar de carreira. Finalizei o curso técnico de Desenvolvimento de Sistemas na ETEC de Guarulhos, onde adquiri uma sólida base de programação e desenvolvimento. Agora, meu foco é me especializar em Ciência de Dados, utilizando a Alura como minha principal plataforma de estudos.
 
-<b>Sobre mim: </b>
-
-<center>Formado como técnico eletrônico e tecnólogo em Mecatrônica iniciei minha carreira profissional fora de qualquer área,
-atuando como auxiliar geral em uma empresa alimentícia, entendi lá como funcionava as dinâmicas de um chão de fábrica,
-após 2 ano e meio migrei para uma empresa têxtil trabalhando como auxiliar de estoque, o que me permitia ter noções de controle e
-estoque de peças.
-     4 anos após concluir o curso técnico de eletrônica consegui meu primeiro estágio na empresa que trabalho hoje. 
-Fui crescendo passando de estagiário para junior, depois de dois anos promovido a pleno, 1 ano após Sênior e atualmente exerço a função de técnico Master, particularmente acho que as coisas sempre aconteceram 
-de forma rápida em minha vida.
-Iniciei minha jornada de migração para TI em 2022, tanto por curiosidade das tecnologias quanto para migração de carreira. Aprendi muito ao longo do curso técnico oferecido
-na ETEC de Guarulhos. Meu objetivo hoje é me tornar um cientista de dados.</center>
-
-<!--
-**BruDevs/BruDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que domino
+Eletrônica: Circuitos analógicos e digitais, automação industrial
+Desenvolvimento de Sistemas: HTML, CSS, JavaScript
+Ciência de Dados: Atualmente em aprendizado e especialização
+Contato
+LinkedIn - BruDevs29
+E-mail: bruno.alves29@outlook.pt
